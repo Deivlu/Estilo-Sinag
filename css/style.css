@@ -1,0 +1,9 @@
+.btn-outline-success {
+    --bs-btn-color: #f8f9fa;
+    --bs-btn-border-color: #f8f9fa;
+}
+
+.row{
+    justify-content: center;
+    align-content: center;
+}
